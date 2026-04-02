@@ -1,7 +1,5 @@
 # Premium MERN Stack Application
 
-**🌍 Live Demo:** [https://pukashishj-mern-app.azurewebsites.net](https://pukashishj-mern-app.azurewebsites.net)
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,9 +44,6 @@ cd frontend
 npm run dev
 ```
 *The React client will be available at `http://localhost:5173`. Any API queries will securely proxy to the backend!*
-
-## 🌩️ Cloud Hosting (Azure)
-To deploy this full-stack application continuously to Azure Web Apps, please see the `azure-deploy.md` guide attached in the root directory.
 
 ---
 *Developed with a focus on seamless integration, state-of-the-art aesthetics, and bulletproof runtime stability.*

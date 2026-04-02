@@ -25,7 +25,7 @@ export default function Home() {
           Build Something <span>Extraordinary.</span>
         </h1>
         <p className="hero-subtitle">
-          Your full-stack MERN platform is live and fully integrated. Experience a premium, dynamic, and seamless web ecosystem hosted on Azure.
+          Your full-stack MERN platform is live and fully integrated. Experience a premium, dynamic, and seamless web ecosystem.
         </p>
         <button className="cta-button" onClick={() => navigate('/projects')}>
           View Database Demo
